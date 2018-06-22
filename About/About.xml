@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+
+	<name>Tank Beds (Fast Sleep)</name>
+	<author>Tremeloe</author>
+	<url></url>
+	<targetVersion>1.0.0</targetVersion>
+	<description>Add a Tank Bed. Tree hours inside of him refreshing as a full 8 hours of sleep.
+
+COSTS
+• 220 Steel
+• 5 Advanced Component
+• 1 Glitterworld Medicine
+• 9 skill in Construct
+• MultiAnalyzer research
+
+PROS
+• Require just 3 hours of sleep per day
+• Don't need electricity
+• Is very cool
+
+CONS
+• Very ugly
+• Uncomfortable
+• Don't heal
+• Bad for surgeries
+
+COMPABILITIES
+Works fine with other mods and existent saves</description>
+
+</ModMetaData>
